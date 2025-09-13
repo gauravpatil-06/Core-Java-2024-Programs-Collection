@@ -1,17 +1,23 @@
-☕ 𝗖𝗼𝗿𝗲 𝗝𝗮𝘃𝗮 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝘀 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻
+# ☕ Core Java Programs Collection
 
-🚀 A complete collection of Core Java programs covering all important topics from basics to OOP concepts. 📘 Includes variables, operators, loops, arrays, strings, classes, inheritance, polymorphism, exception handling, and file handling. 💡 Useful for students, beginners, and lab practice with clean and simple coding style.
+🚀 A complete collection of **Core Java programs** covering all important topics from basics to OOP concepts.  
+📘 Includes variables, operators, loops, arrays, strings, classes, inheritance, polymorphism, exception handling, and file handling.  
+💡 Useful for **students, beginners, and lab practice** with a clean and simple coding style.
 
-🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
-• 🖥 𝗕𝗮𝘀𝗶𝗰𝘀 & 𝗟𝗼𝗼𝗽𝘀 – Input/Output, if-else, switch, for, while, do-while <br>
-• 🧮 𝗔𝗿𝗿𝗮𝘆𝘀 & 𝗦𝘁𝗿𝗶𝗻𝗴𝘀 – 1D/2D arrays, string methods, string buffer operations <br>
-• 🏗 𝗢𝗢𝗣 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 –  Classes, Objects, Constructors, Inheritance <br>
-• ⚡ 𝗣𝗼𝗹𝘆𝗺𝗼𝗿𝗽𝗵𝗶𝘀𝗺 – Method overloading, method overriding <br>
-• 🔑 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 & 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁 𝗖𝗹𝗮𝘀𝘀𝗲𝘀 – Abstraction and multiple inheritance concepts <br>
-• 📂 𝗙𝗶𝗹𝗲 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Read/Write operations using File class & I/O streams <br>
-• 🚨 𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Try-catch, finally, throw & custom exceptions <br>
+## 🔧 Key Features
 
-🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
+- 🖥 **Basics & Loops** – Input/Output, if-else, switch, for, while, do-while  
+- 🧮 **Arrays & Strings** – 1D/2D arrays, string methods, string buffer operations  
+- 🏗 **OOP Concepts** – Classes, Objects, Constructors, Inheritance  
+- ⚡ **Polymorphism** – Method overloading, method overriding  
+- 🔑 **Interfaces & Abstract Classes** – Abstraction and multiple inheritance concepts  
+- 📂 **File Handling** – Read/Write operations using File class & I/O streams  
+- 🚨 **Exception Handling** – Try-catch, finally, throw & custom exceptions  
 
-Anyone who wants to learn Java step by step – from basics to advanced – with real tested Core Java programs
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 🎯 Ideal For
+
+Anyone who wants to **learn Java step by step** – from basics to advanced – with **real tested Core Java programs**.
