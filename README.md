@@ -5,7 +5,7 @@
 <h1 align="center">🎓 Core Java Programs – 2024</h1>
 
 <p align="center">
-  🎓 A structured Core Java learning & practice repository  
+  🚀 A structured Core Java learning & practice repository  
 </p>
 
 <p align="center">
@@ -37,26 +37,15 @@ It is designed to build a **strong foundation in Java**, improve understanding o
 
 ## 🔧 Key Features
 
-- 🖥 **Basics & Control Flow**  
-  Input/Output, if-else, switch-case, for, while, do-while loops  
-
-- 🧮 **Arrays & String Handling**  
-  1D & 2D arrays, string methods, StringBuffer & StringBuilder  
-
-- 🏗 **Object-Oriented Programming (OOP)**  
-  Classes, Objects, Constructors, Inheritance, Encapsulation  
-
-- ⚡ **Polymorphism**  
-  Method overloading and method overriding  
-
-- 🔑 **Abstraction**  
-  Interfaces and abstract classes with real examples  
-
-- 📂 **File Handling**  
-  File class, file read/write operations, I/O streams  
-
-- 🚨 **Exception Handling**  
-  try-catch, finally, throw, throws, and custom exceptions  
+| Feature Area | Details |
+|-------------|---------|
+| 🖥 Basics & Control Flow | Input/Output, if-else, switch-case, for, while, do-while loops |
+| 🧮 Arrays & String Handling | 1D & 2D arrays, string methods, StringBuffer & StringBuilder |
+| 🏗 Object-Oriented Programming (OOP) | Classes, Objects, Constructors, Inheritance, Encapsulation |
+| ⚡ Polymorphism | Method overloading and method overriding |
+| 🔑 Abstraction | Interfaces and abstract classes with real examples |
+| 📂 File Handling | File class, read/write operations, I/O streams |
+| 🚨 Exception Handling | try-catch, finally, throw, throws, custom exceptions |
 
 ---
 
