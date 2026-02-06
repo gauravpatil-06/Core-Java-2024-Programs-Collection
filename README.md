@@ -25,7 +25,7 @@ It is designed to build a **strong foundation in Java**, improve understanding o
 
 ---
 
-## ☕ Core Java Programs Collection
+## 🎓 Core Java Programs Collection
 
 🚀 A complete and carefully organized set of **Core Java programs** covering all essential concepts from **basics to advanced OOP**.
 
