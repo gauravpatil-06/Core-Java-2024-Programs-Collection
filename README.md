@@ -59,15 +59,5 @@ It is designed to build a **strong foundation in Java**, improve understanding o
 
 ---
 
-## 🎯 Ideal For
-
-✔ Students learning Java  
-✔ Beginners building strong fundamentals  
-✔ College lab practice & assignments  
-✔ Interview and placement preparation  
-✔ Anyone revising **Core Java from basics to advanced**
-
----
-
 > ☕ **Core Java Programs – 2024**  
 > Learn Java the right way — structured, clean, and professional 🚀
