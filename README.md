@@ -1,58 +1,42 @@
-## ☕ Core Java Programs Collection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
+</p>
 
-This section contains a **well-structured collection of Core Java programs** covering all important topics from **basic concepts to advanced OOP principles**.
+<h1 align="center">Core Java Programs – 2024</h1>
 
-All programs are written in a **clean, simple, and easy-to-understand manner**, making them suitable for **students, beginners, and academic lab practice**.
+<p align="center">
+  🎓 Core Java Practice & Learning Repository  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blue"/>
+  <img src="https://img.shields.io/badge/IDE-Eclipse-purple"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+</p>
 
 ---
 
-## 🧭 Topics Covered (Core Java)
+## ☕ Core Java Programs Collection
 
-The programs in this collection cover the following areas:
+🚀 A complete collection of **Core Java programs** covering all important topics from basics to OOP concepts.  
+📘 Includes variables, operators, loops, arrays, strings, classes, inheritance, polymorphism, exception handling, and file handling.  
+💡 Useful for **students, beginners, and lab practice** with a clean and simple coding style.
 
-- 🧩 **Java Basics**  
-  Variables, data types, input/output operations  
+---
 
-- ➕ **Operators**  
-  Arithmetic, relational, logical, assignment operators  
+## 🔧 Key Features
 
-- 🔁 **Control Statements**  
-  if-else, switch-case, for loop, while loop, do-while loop  
-
-- 🔢 **Arrays**  
-  One-dimensional and two-dimensional arrays  
-
-- 🔤 **String Handling**  
-  String class methods, StringBuffer, StringBuilder  
-
-- 🧠 **Object-Oriented Programming (OOPs)**  
-  Classes, objects, constructors, inheritance, encapsulation  
-
-- ⚡ **Polymorphism**  
-  Method overloading and method overriding  
-
-- 🔑 **Interfaces & Abstract Classes**  
-  Abstraction and multiple inheritance concepts  
-
-- ⚠️ **Exception Handling**  
-  try-catch, finally, throw, throws, and custom exceptions  
-
-- 📁 **File Handling**  
-  File class, file read/write operations, and I/O streams  
+- 🖥 **Basics & Loops** – Input/Output, if-else, switch, for, while, do-while  
+- 🧮 **Arrays & Strings** – 1D/2D arrays, string methods, string buffer operations  
+- 🏗 **OOP Concepts** – Classes, Objects, Constructors, Inheritance  
+- ⚡ **Polymorphism** – Method overloading, method overriding  
+- 🔑 **Interfaces & Abstract Classes** – Abstraction and multiple inheritance concepts  
+- 📂 **File Handling** – Read/Write operations using File class & I/O streams  
+- 🚨 **Exception Handling** – Try-catch, finally, throw & custom exceptions  
 
 ---
 
 ## 🎯 Ideal For
 
-This Core Java collection is useful for:
-
-- 🎓 Students learning **Core Java**
-- 👶 Beginners starting Java programming
-- 🧪 College practicals and lab assignments
-- 💼 Interview and placement preparation
-- 📚 Quick revision of Java fundamentals
-
----
-
-> ☕ **Core Java Programs – 2026**  
-> A complete and structured approach to learning Core Java step by step.
+Anyone who wants to **learn Java step by step** – from basics to advanced – with **real tested Core Java programs**.
